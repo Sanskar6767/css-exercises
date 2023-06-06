@@ -1,0 +1,19 @@
+.normal {
+    background-color: #ffb6c1;
+    font-family: Verdena, 'DejaVu Sana', sans-serif;
+}
+
+#first {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.normal.cooler {
+    font-size: 24px;
+}
+
+#second {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
